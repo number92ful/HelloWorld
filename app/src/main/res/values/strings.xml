@@ -1,0 +1,4 @@
+<resources>
+    <!-- Changed from Hello World to Welcome to my First Android App -->
+    <string name="app_name">Welcome to my First Android App</string>
+</resources>
